@@ -8,6 +8,6 @@ My name is Jordan Martz.  Looking forward to working with you.
 * Contact : Jordan@datamartz.com
 
 Project Pages : 
-- PacMen Exercise
-- Eye Exercise
-- Real Time Bus Tracking projects
+- PacMen Exercise : https://github.com/JordanMartz/MIT_MERN/tree/main/Pacman
+- Eye Exercise : https://github.com/JordanMartz/MIT_MERN/tree/main/Eye%20Movement%20Assignment
+- Real Time Bus Tracking projects : https://github.com/JordanMartz/MIT_MERN/tree/main/BusTracking
